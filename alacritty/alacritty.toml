@@ -1,0 +1,25 @@
+import = ["~/.config/alacritty/themes/rose-pine.toml"]
+# import = ["~/.config/alacritty/themes/catppuccin-mocha.toml"]
+
+[font]
+size = 15
+# offset = { y = 1 }
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "JetBrainsMono Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "JetBrainsMono Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "JetBrainsMono Nerd Font"
+style = "Italic"
+
+[window]
+decorations = "None"
